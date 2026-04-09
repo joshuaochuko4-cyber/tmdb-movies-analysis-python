@@ -80,8 +80,8 @@ genre selection, and release planning decisions.
 ## 📁 Files in This Repository
 | File | Description |
 |------|-------------|
-| `isah_joshua_TMDB.ipynb` | Jupyter Notebook with full analysis |
-| `tmdb_1.xlsx` | Raw dataset used for analysis |
+| `https://github.com/joshuaochuko4-cyber/tmdb-movies-analysis-python/blob/7ff30f42fd193963561cd4394fa7c7104d41f6d8/isah_joshua_TMDB.ipynb` | Jupyter Notebook with full analysis |
+| `` | Raw dataset used for analysis |
 
 ---
 
